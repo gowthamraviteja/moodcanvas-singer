@@ -90,4 +90,3 @@ MIT License - Built for educational and demonstration purposes.
 
 **Experience the future of emotion-driven music discovery!** 🎶
 
-<img width="1912" height="1210" alt="Screenshot 2025-11-15 001203" src="https://github.com/user-attachments/assets/93ee034f-f320-4e29-b259-4d8392d1fb79" />
