@@ -64,28 +64,6 @@ Watch music recommendations change instantly based on your selected emotion!
 6. **Fearful** - Soothing, protective sounds
 7. **Disgusted** - Cleansing, refreshing music
 
-## 🤖 Built with Goose AI Agents
-
-This project showcases collaborative AI development using specialized Goose subagents:
-
-- **Idea Generation Agent** - Conceptualized emotion-driven music platform
-- **Project Manager Agent** - Created technical specifications and sprint plans  
-- **Frontend Developer Agent** - Built UI with emotion detection simulation
-- **Backend Developer Agent** - Developed Flask API with music database
-- **QA Testing Agent** - Created comprehensive testing protocols
-- **Integration Agent** - Prepared deployment and documentation
-
-All working in parallel to deliver a complete application in just 40 minutes!
-
-## 🏆 Challenge Achievement
-
-- ✅ **Built from scratch in 40 minutes**
-- ✅ **Unconventional input method** (emotion-based)
-- ✅ **No keyboard/mouse** for music selection
-- ✅ **Real-time response** (<2 seconds)
-- ✅ **Professional UI/UX**
-- ✅ **Complete working demo**
-
 ## 💡 Future Enhancements
 
 - Integration with actual emotion detection APIs (face-api.js, emotion recognition)
@@ -108,5 +86,6 @@ Feel free to fork this project and submit pull requests for improvements!
 MIT License - Built for educational and demonstration purposes.
 
 ---
+
 
 **Experience the future of emotion-driven music discovery!** 🎶
