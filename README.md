@@ -1,6 +1,6 @@
 # 🎵 MoodCanvas Singer
 
-AI-powered emotion-based music recommendation app built in 40 minutes for a coding challenge.
+AI-powered emotion-based music recommendation app built for a coding challenge.
 
 ## 🚀 Features
 
@@ -89,4 +89,5 @@ MIT License - Built for educational and demonstration purposes.
 
 
 **Experience the future of emotion-driven music discovery!** 🎶
+
 
